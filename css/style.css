@@ -19,11 +19,16 @@ div{
 }
 
 img{
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
-.ideas-img{
-    border-radius: 50%;
+.circulo{
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-image: url(../assets/img/50af7757-ad6e-4278-b851-ca8e36085441.jpg);
+    background-size: cover;
 }
 
 @keyframes rotate {from {transform: rotate(0deg);}
